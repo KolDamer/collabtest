@@ -69,6 +69,10 @@ int main() {
     Netpay=GrossPay-(Edufund+NHC+DistrictTax+IncomeTax);
     cout<<Name<<",\n"<<"Your GrossPay is: \n" <<GrossPay;
     cout<<" and NetPay is: "<<Netpay;
+    cout<<endl;
+
+    cout<<"Note: There will be an increment in taxes next year.\n";
+    cout<<"Thank You";
 
 
     return 0;
