@@ -74,7 +74,7 @@ int main() {
     cout<<"Note: There will be an increment in taxes next year.\n";
     cout<<"Thank You very much\n";
     cout<<endl;
-    cout<<"Please push all complaints to the CEO through the manager";
+    cout<<"Please push all complaints to the CEO through the manager\n";
 
 
     return 0;
